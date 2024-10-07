@@ -1,0 +1,11 @@
+---
+name: Jiaqi Zhai
+organization: Meta
+personal-page: https://scholar.google.com/citations?user=E9wn7LUAAAAJ&hl=en
+order: 2
+img: assets/img/jiaqi_zhai.png
+content-speak: Recommendation systems enable billions of people to make decisions on a daily basis in online content and e-commerce platforms. The scale of such systems have increased by close to 10,000x in the last few years. Despite these being the largest software systems on the planet (https://youtu.be/watch?v=txOv_pi-_R4&t=2020s as Jensen Huang remarked in NVIDIA's recent ER), most DLRM models don’t scale with compute. &#10Our work, Generative Recommenders, reformulates ranking and retrieval in recommendation systems as sequential transduction tasks while significantly outperforming traditional DLRMs for the first time. Our new architecture introduced, HSTU, outperforms SotA Transformers by up to 15.2x on 8k sequences, while our inference algorithm, M-FALCON, boosts inference efficiency by 900x vs traditional DLRMs thanks to a novel design that fully amortizes computational costs via micro-batching. &#10Generative Recommenders and HSTU not only deliver double-digit improvements in online A/B tests at Meta, but also demonstrate scaling law in industrial-scale RecSys, up to GPT-3/LLaMa-2-compute scale, opening up new research frontiers through the application of scaling law.
+bio: <b>Jiaqi Zhai</b> is a Distinguished Engineer at Meta. He leads efforts to improve recommendation systems across Facebook and Instagram, with a mission to connect billions of people to informative, entertaining, and insightful content. His team developed multiple state-of-the-art foundational technologies, including the first trillion-parameter scale generative recommenders used in production. Prior to Meta, he spent 6 years at Google and developed the cross-platform user understanding system used in Search, Chrome, and YouTube, Google's first billion-user scale online learning system with minute-level latency, and the first generative model deployed on Google Search. His work has been published in top conferences including KDD, WWW, and SIGMOD.
+content-title: Actions Speak Louder than Words&#58 Trillion-Parameter Sequential Transducers for Generative Recommendations
+content-slide: assets/slides/Meta-actions-speak-louder-than-words.pdf
+---
