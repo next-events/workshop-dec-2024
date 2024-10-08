@@ -912,9 +912,9 @@ img::-moz-selection {
     background: 0 0
 }
 
-.speakers {
+/* .speakers {
     padding-bottom: 20px;
-}
+} */
 
 body {
     webkit-tap-highlight-color: #fed136
