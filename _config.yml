@@ -18,6 +18,6 @@ github:
 collections:
   organizers:
     output: true
-  # speakers:
-  #   output: true
+  speakers:
+    output: true
   
