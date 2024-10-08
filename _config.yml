@@ -3,12 +3,12 @@ description: Cayman is a clean, responsive theme for GitHub Pages.
 show_downloads: false
 theme: jekyll-theme-cayman
 
-conference_name: NExT Workshop (Dec 2024)
+conference_name: NExT 2024 Workshop on Responsible AI and LLMs
 # conference_www: "on the Web Conference 2024 (WWW'24)"
 # conference_www: "Venue & Date: TBD"
-conference_venue: "Level 01-03 Seminar Room @ innovation 4.0, NUS, Singapore"
+conference_venue: "Venue: Singapore"
 # conference_time: "Monday 13 May 2024, 9:00 AM - 12:35 PM"
-conference_time: "Wed December 4th - Thu December 5th, 2024"
+conference_time: "Date: 2 Dec - 6 Dec, 2024"
 # conference_venue: ""
 # conference_intro: "Will be held in 2024"
 conference_intro: ""
