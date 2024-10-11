@@ -6,9 +6,9 @@ theme: jekyll-theme-cayman
 conference_name: NExT 2024 Workshop on Responsible AI and LLMs
 # conference_www: "on the Web Conference 2024 (WWW'24)"
 # conference_www: "Venue & Date: TBD"
-conference_venue: "Venue: Singapore"
+conference_venue: "Singapore"
 # conference_time: "Monday 13 May 2024, 9:00 AM - 12:35 PM"
-conference_time: "Date: 2 Dec - 6 Dec, 2024"
+conference_time: "Mon Dec 2 - Fri Dec 6, 2024"
 # conference_venue: ""
 # conference_intro: "Will be held in 2024"
 conference_intro: ""
